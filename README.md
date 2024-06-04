@@ -1,2 +1,2 @@
-# Tableau_SuperStore
-My first tableau project on Github
+# SuperStore Dashboard
+Welcome to the SuperStore data set analysis
