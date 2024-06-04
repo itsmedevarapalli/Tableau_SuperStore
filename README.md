@@ -37,8 +37,8 @@ The primary objectives of this project is:
 
 # Features : 
 
-Dashboard: Building based on data set and problem statements.
-Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
+1) Dashboard: Building based on data set and problem statements.
+2) Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
 
 
 
