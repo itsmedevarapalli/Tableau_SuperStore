@@ -3,6 +3,7 @@ Welcome to the SuperStore Dashboard project. This Tableau project aims to delive
 
 
 # Problem Statements
+The primary objectives of this project is:
 
 1. Find the total sales in category wise.
 2. Find the average sales in category wise.
@@ -31,6 +32,13 @@ Welcome to the SuperStore Dashboard project. This Tableau project aims to delive
 25. find the percentage of sub category sales contributing to each category
 26. Difference between total sales for each region & avg sales per customer each region
 27. Find the difference between sales for each region by month & total sales for each month
+
+
+
+# Features : 
+
+Dashboard: Building based on data set and problem statements.
+Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
 
 
 
