@@ -41,7 +41,7 @@ The primary objectives of this project is:
 2) Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
 
 # TechStack:
-**1) Power BI:** For data visualization and dashboard development.
+**1) Tableau Public:** For data visualization and dashboard development.
 **2) DAX (Data Analysis Expressions):** For data manipulation and calculations.
 **3) Power Query:** For data transformation and cleaning.
 
