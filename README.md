@@ -40,5 +40,14 @@ The primary objectives of this project is:
 1) Dashboard: Building based on data set and problem statements.
 2) Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
 
+# SuperStore Dashboard - 1
+# Analyzing sales and product data by category, year, month, and region, including sales totals, averages, extremes, profits, and relative percentages for 2017.
+
+<img width="1728" alt="SuperStore_Dashboard_1" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/034a2dc6-af5a-4db7-8d79-13012875099b">
+
+
+
+
+
 
 
