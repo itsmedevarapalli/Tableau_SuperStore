@@ -45,6 +45,7 @@ The primary objectives of this project is:
 **2) DAX (Data Analysis Expressions):** For data manipulation and calculations.
 **3) Power Query:** For data transformation and cleaning.
 
+
 # SuperStore Dashboard - 1:
 Analyzing sales and product data by category, year, month, and region, including sales totals, averages, extremes, profits, and relative percentages for 2017.
 
