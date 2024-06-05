@@ -35,10 +35,15 @@ The primary objectives of this project is:
 
 
 
-# Features : 
+# Features: 
 
 1) Dashboard: Building based on data set and problem statements.
 2) Visualization: Intuitive and visually appealing representation of data using Tableau advanced visualization capabilities.
+
+# TechStack:
+**Power BI:** For data visualization and dashboard development
+**DAX (Data Analysis Expressions):** For data manipulation and calculations
+**Power Query:** For data transformation and cleaning
 
 # SuperStore Dashboard - 1
 Analyzing sales and product data by category, year, month, and region, including sales totals, averages, extremes, profits, and relative percentages for 2017.
