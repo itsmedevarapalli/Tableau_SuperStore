@@ -50,7 +50,6 @@ The primary objectives of this project is:
 # TechStack:
 **1) Tableau Public:** For data visualization and dashboard development.
 **2) DAX (Data Analysis Expressions):** For data manipulation and calculations.
-**3) Power Query:** For data transformation and cleaning.
 
 
 # SuperStore Dashboard - 1:
