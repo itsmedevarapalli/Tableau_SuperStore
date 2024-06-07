@@ -32,6 +32,13 @@ The primary objectives of this project is:
 25. find the percentage of sub category sales contributing to each category
 26. Difference between total sales for each region & avg sales per customer each region
 27. Find the difference between sales for each region by month & total sales for each month
+28. Find the percentage of total sales each month for each year.
+29. Percentage of total sales across different categories for each quarter of the given year.
+30. Showing Data Visualization Using ToolTip.
+31. Using ToolTip Creating Chats
+32. Display the Avg Sales for each category and Year
+33. Creating a reference line with target variable
+34. Creating charts with TreadLines & Reference lines
 
 
 
@@ -88,6 +95,12 @@ user selecting required field , based on updating sales values , Profit and rati
 Link : https://public.tableau.com/app/profile/srinivas.devarapalli/viz/SuperStore_Dashboard_6/Dashboard6?publish=yes
 
 <img width="1728" alt="SuperStore_Dashboard_6" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/cdef76ca-931a-4893-9aea-7644e599ff5e">
+
+# SuperStore Dashboard - 7
+Find the % of sub cat sales and contributing each category, each region by month &  total sales, total sales for each region avg sales per customer each region, sales for each region by month & total sales for each month and percentage of total sales each month for each year
+
+<img width="1728" alt="Superstore-Dashboard_7" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/f8164a83-fd46-49b1-8c7a-6500e9553776">
+
 
 
 
