@@ -96,10 +96,26 @@ Link : https://public.tableau.com/app/profile/srinivas.devarapalli/viz/SuperStor
 
 <img width="1728" alt="SuperStore_Dashboard_6" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/cdef76ca-931a-4893-9aea-7644e599ff5e">
 
-# SuperStore Dashboard - 7
+# SuperStore Dashboard - 7:
 Find the % of sub cat sales and contributing each category, each region by month &  total sales, total sales for each region avg sales per customer each region, sales for each region by month & total sales for each month and percentage of total sales each month for each year
 
 <img width="1728" alt="Superstore-Dashboard_7" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/f8164a83-fd46-49b1-8c7a-6500e9553776">
+
+# SuperStore Dashboard - 8:
+Find the % of total sales each month for each year, percentage of total sales across different categories for each quater of the given year, Showing DataVisuvalization using tooltip
+
+<img width="1728" alt="SuperStore_Dashboard_8" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/d3d1efc8-fb2d-48b7-b8e4-370484329e8a">
+<img width="1728" alt="SuperStore_Dashboard_8_1" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/52ce03a1-f26c-45d9-b304-f36c134faa95">
+
+# SuperStore Dashboard - 9:
+Creating Visualization  using tooltip and reference lines
+
+<img width="1728" alt="SuperStore_Dashboard_9" src="https://github.com/itsmedevarapalli/Tableau_SuperStore/assets/170645463/2399f2bd-46a2-4f48-b3fe-d4493f8c61e9">
+
+
+
+
+
 
 
 
